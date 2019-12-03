@@ -1,1 +1,3 @@
-# gci-fedora-xss
+# GCI Fedora XSS
+
+A demonstration of XSS for Google Code-in
